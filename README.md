@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, My name is Mario and i'm web developer. 
+Hi, My name is Mario and i'm a web developer. 
 i have been developing for the past 10 years(since i was 14) focusind on Back-End, using Node.js/Python/Golang and PHP. Currently i've been dedicated to Node.js/gRPC microsservices with GoLang/React.js and Vue.js integrations.
 
  i'm a Linux user for the past 9 years, I prioritize using the best versioning technologies like Git and have skills in Github and Gitlab. I value well-structured, quality code and use agile development methodologies to manage projects
